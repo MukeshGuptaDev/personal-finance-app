@@ -1,5 +1,9 @@
 package com.personalfinanceapp.dto;
 
+import lombok.Data;
+
+import java.util.Date;
+
 @Data
 public class ExpenseDTO {
     private Long id;
